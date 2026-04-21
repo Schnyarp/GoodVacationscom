@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://goodvacations.com/sitemap.xml
